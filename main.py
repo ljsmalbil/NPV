@@ -10,7 +10,7 @@ from npv import NPV
 if __name__ == "__main__":
 
     projected_cash_flows = [-3000, 500, 1000, 1000, 400, 300]
-    discount_rate = 0.05
+    discount_rate = -0.005
 
     projected_cash_flows_other_project = [-2000, 500, 1000, 1000, 400, 200]
 
